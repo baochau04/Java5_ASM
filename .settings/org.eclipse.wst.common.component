@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="ps08771-baochau-asm">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/i18n-res"/>
+                
+        <property name="context-root" value="ps08771-baochau-asm"/>
+                
+        <property name="java-output-path" value="/ps08771-baochau-asm/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
